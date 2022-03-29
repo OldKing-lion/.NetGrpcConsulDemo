@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xBK2Q2WaamsTfdg5niqymYYUuHOBNbOtzl5pRTM76eM=",
+  "Source": "GrpcConsulTest",
+  "BasePath": "_content/GrpcConsulTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
