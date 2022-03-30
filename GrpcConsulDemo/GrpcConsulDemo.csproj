@@ -7,7 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-      <Protobuf Include="Protos\greet.proto" GrpcServices="Server" />
+      <Protobuf Include="Protos\*.proto" GrpcServices="Server" link="Protos\%(RecursiveDir)%(Filename)%(Extension)" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Protos\hello.proto" />
   </ItemGroup>
 
   <ItemGroup>
