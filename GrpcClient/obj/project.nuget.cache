@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xNlEXyvyRtvWD6i4LfD3X8tWAH0NHORuWhIy51PxP1f9ppN2ComzN70+hP4rmf9AF36RiN4Z9A2vyIAfZfWyxw==",
+  "dgSpecHash": "Yz7O5pY+WCMUo4F7303Kyh5GIC4Gd7gYqhok5XmKYAQyeRpfmlq8fURGRpSPNMzXI4KBK+1cA+lJgpScteYgKw==",
   "success": true,
   "projectFilePath": "E:\\LearnCsharp\\GrpcConsulTest\\GrpcClient\\GrpcClient.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,10 @@
     "D:\\nuget\\packages\\grpc.net.common\\2.44.0\\grpc.net.common.2.44.0.nupkg.sha512",
     "D:\\nuget\\packages\\grpc.tools\\2.45.0\\grpc.tools.2.45.0.nupkg.sha512",
     "D:\\nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "D:\\nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "D:\\nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "D:\\nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "D:\\nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "D:\\nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
@@ -72,6 +75,7 @@
     "D:\\nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
     "D:\\nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "D:\\nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "D:\\nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "D:\\nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "D:\\nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "D:\\nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",

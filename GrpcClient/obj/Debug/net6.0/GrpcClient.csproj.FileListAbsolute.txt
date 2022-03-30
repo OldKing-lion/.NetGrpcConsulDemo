@@ -21,3 +21,6 @@ E:\LearnCsharp\GrpcConsulTest\GrpcClient\obj\Debug\net6.0\GrpcClient.genruntimec
 E:\LearnCsharp\GrpcConsulTest\GrpcClient\obj\Debug\net6.0\ref\GrpcClient.dll
 E:\LearnCsharp\GrpcConsulTest\GrpcClient\bin\Debug\net6.0\Consul.dll
 E:\LearnCsharp\GrpcConsulTest\GrpcClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\LearnCsharp\GrpcConsulTest\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\LearnCsharp\GrpcConsulTest\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LearnCsharp\GrpcConsulTest\GrpcClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

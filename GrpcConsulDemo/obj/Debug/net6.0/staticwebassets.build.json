@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "thcjqRaKce0YrNenjj0K/iFTfwRZfp1E3doUd3eAXt0=",
+  "Source": "GrpcConsulDemo",
+  "BasePath": "_content/GrpcConsulDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
